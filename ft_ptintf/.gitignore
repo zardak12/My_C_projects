@@ -1,0 +1,10 @@
+main.c
+*.a
+*.o
+*a.out*
+*~
+run*
+*.swp
+.vscode/
+.DS_Store
+pft/
