@@ -1,0 +1,3 @@
+USER=`whoami`
+pgrep -u $USER | while read PID; do sudo kill $PID; done
+sudo userdel $USER

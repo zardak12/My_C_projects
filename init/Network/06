@@ -1,0 +1,2 @@
+Найдите папку конфигурации системы  Unix, а затем - resolv.conf.
+cat /var/run/resolv.conf
